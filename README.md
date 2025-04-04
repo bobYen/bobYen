@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bobYen
-- 👀 I’m interested in RISCV/CPU/
+- 👀 I’m interested in RISCV/CPU
 - 🌱 I’m currently learning High Performance CPU, Multi Processor Verification,
 
 <!---
